@@ -15,18 +15,18 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Author](#author)
   - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
+A QR code component, which is responsive for different screens and looks modern.
 ### Screenshot
 
-![](./screenshot.jpg)
+![Screenshot Image](./images/Deep%20_%20QR%20code%20component.png)
 
 ### Links
 
 - Solution URL: [here](https://github.com/Just2Deep/qr-code-component)
-- Live Site URL: [here](https://your-live-site-url.com)
+- Live Site URL: [here](https://just2deep.github.io/qr-code-component/)
 
 ### Built with
 
@@ -50,4 +50,4 @@ Need to work on understanding the importance of margins and paddings when viewpo
 
 ## Acknowledgments
 
-shayhowe tutorials for helping me understand the box model.
+shayhowe [learn](https://learn.shayhowe.com/)
